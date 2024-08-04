@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+}
+.container {
+  border: 2px solid #ff0000;
+  border-radius: 10px;
+  width: 700px;
+  height: 400px;
+  margin: 0 auto;
+}
+.app {
+  display: flex;
+  padding: 10px;
+}
+.input-box {
+  height: 30px;
+}
+.input-search {
+  background: #0000ff;
+  padding: 10px 0;
+  width: 100px;
+  color: #fff;
+  border-radius: 5px;
+}
+.body-content {
+  background: blue;
+  display: flex;
+  flex-direction: column;
+}
+.cloud-img {
+  display: flex;
+}
